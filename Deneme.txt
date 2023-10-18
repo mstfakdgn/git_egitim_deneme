@@ -3,5 +3,3 @@ amend tests
 amend test ek
 
 amend first step
-
-git revert
