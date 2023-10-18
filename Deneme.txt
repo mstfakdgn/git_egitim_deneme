@@ -11,3 +11,5 @@ commit2
 commit 3
 
 merge1
+
+merge2
