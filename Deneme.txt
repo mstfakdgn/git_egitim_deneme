@@ -21,6 +21,10 @@ master
 master 2
 
 
+<<<<<<< HEAD
 master 1
 
 master2
+=======
+master 1
+>>>>>>> 8a66d2f (master1)
