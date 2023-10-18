@@ -7,3 +7,5 @@ amend first step
 commit1
 
 commit2
+
+commit 3
